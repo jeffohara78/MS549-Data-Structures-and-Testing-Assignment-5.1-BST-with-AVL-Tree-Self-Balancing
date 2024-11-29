@@ -1,0 +1,5 @@
+NumberOfPrimes,TimeMilliseconds
+100,0
+1000,0
+10000,3
+100000,46
